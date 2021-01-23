@@ -1,0 +1,34 @@
+h1{
+  text-align: center;
+  font-family: 'Hanalei Fill', cursive;
+}
+
+table{
+  margin: auto;
+}
+
+td{
+  height: 250px;
+  width: 150px;
+  padding: 25px;
+}
+
+#t1{
+  background-color: #E63946;
+}
+
+#t2{
+  background-color: #F1FAEE;
+}
+
+#t3{
+  background-color: #A8DADC;
+}
+
+#t4{
+  background-color: #457B9D;
+}
+
+#t5{
+  background-color: #1D3557;
+}
